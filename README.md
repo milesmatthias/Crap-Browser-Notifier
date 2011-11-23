@@ -3,6 +3,8 @@ Crap Browser Notifier
 
 This is a javascript snippet that detects whether or not the user's browser is Microsoft Internet Explorer, and if it is, it adds a small window to the bottom-right of the window notifying the user that they are using a crappy browser and provides links to install better browsers.
 
+### [Demo](http://milesmatthias.github.com/Crap-Browser-Notifier/) ###
+
 ### Usage: ###
 
 	<script src="crapBrowserNotifier.js"></script>
